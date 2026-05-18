@@ -2,7 +2,7 @@
 # 💫 About Me:<br><br>## Hi, I'm Sambit 👋<br><br>🎓 Student | Software Developer in Progress  <br>💻 Building real-world projects and sharpening coding skills  <br>🚀 Focused on growth, discipline, and consistent progress  <br><br>🔭 Currently working on web development and practical applications  <br>🌱 Learning Data Structures, Algorithms, and Full-Stack Development  <br>🤝 Open to collaborating on impactful and creative projects  <br>💬 Ask me about coding, self-improvement, and project building  <br>⚡ Fun fact: The first computer bug was an actual moth found in a computer.  <br><br>🎯 Goals:<br>- Build impressive projects  <br>- Create a strong developer portfolio  <br>- Secure great opportunities  <br>- Keep leveling up every day
 
 ## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sam.b8_?utm_source=qr&igsh=MWlobDZxOGl2Y2NmdQ%3D%3D
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sam.b8_
 )
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sambit-moharana-1031b233b
 )
