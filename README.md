@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sam.b8_
 )
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sambit-moharana-1031b233b
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sambit-moharana50
 )
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/https://x.com/SAMBITM50
 )
