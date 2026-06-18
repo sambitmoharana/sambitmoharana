@@ -24,8 +24,4 @@
 )
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:moharanasambit53@gmail.com)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sambitmoharana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sambitmoharana&theme=dark&hide_border=false)<br/>
-
 ---
