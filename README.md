@@ -12,6 +12,9 @@
 - Secure great opportunities  <br>
 - Keep leveling up every day <br>
 
+### 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,mysql,vercel,supabase)](https://skillicons.dev)
+
 ### 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sam.b8_
 )
@@ -20,8 +23,6 @@
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/https://x.com/SAMBITM50
 )
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:moharanasambit53@gmail.com)
-### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,mysql,vercel,supabase)](https://skillicons.dev)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sambitmoharana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
