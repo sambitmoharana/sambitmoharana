@@ -18,7 +18,7 @@
 - Keep leveling up every day <br>
 
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=javascript,python,java,c,html,css,mysql,vercel,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,java,c,html,css,mysql,vercel,supabase)](https://skillicons.dev)
 
 ### 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sam.b8_
